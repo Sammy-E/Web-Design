@@ -1,0 +1,34 @@
+<!DOCTYPE html> 
+<html>
+	<head> 
+		<meta charset= “utf-8”> 
+		<title> La bouffe dans le Delaware </title> 
+	<head> 
+	<body> 
+<!-- C'était le début--> 
+
+<h1> Mes restaurants préférés au Delaware </h1> 
+
+<h2> Les restaurants qui peuvent s'enorgeuillir </h2> 
+<ul> 
+	<li> Trini Quizeen - two doubles 🇹🇹 </li> 
+	<li> Mom-mom’s dairy free ice cream </li> 
+	<li> Red Lobster - biscuits </li> 
+</ul>
+<h3> Les restaurants dont je m'y rendrai quand j'ai les sous </h3>
+<ul> 
+	<li> Little Nonna </li> 
+	<li> Le Chat Noir </li> 
+</ul>
+<h2> Rehoboth beach </h2> 
+<ul> 
+	<li> Thrasher's Fries </li> 
+	<li> Dairy free ice cream </li> 
+</ul> 
+<h3> Les boulangeries dont je m'y rendrai quand j'ai les sous </h3> 
+<ul> 
+	<li> Boneshaker Donuts (peut-être)</li> 
+	<li> La Crêperie Bretonne à Montparnasse </li>
+</ul> 
+	</body> 
+</html>
