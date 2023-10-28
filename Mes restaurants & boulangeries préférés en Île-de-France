@@ -1,0 +1,41 @@
+<!DOCTYPE html> 
+<html>
+	<head> 
+		<meta charset= “utf-8”> 
+		<title> La bouffe en Île-de-France </title> 
+	<head> 
+	<body> 
+<!-- C'était le début--> 
+
+<h1> Mes restaurants & boulangeries préférés en Île-de-France </h1> 
+
+<h2> Les restaurants qui peuvent s'enorgeuillir </h2> 
+<ul> 
+	<li> Arti 🇮🇳 </li> 
+	<li> Best of India 🇮🇳 </li> 
+	<li> Malis </li> 
+	<li> Le Bistro Viet </li>  
+	<li> Heng Lay </li> 
+	<li> Melinda </li> 
+	<li> Lao Douang Dy </li> 
+	<li> New Saigon </li> 
+	<li> Lao Viet </li> 
+	<li> Le Laakam 🇨🇲 </li> 
+</ul>
+<h3> Les restaurants dont je m'y rendrai quand j'ai les sous </h3>
+<ul> 
+	<li> Little Nonna </li> 
+	<li> Le Chat Noir </li> 
+</ul>
+<h2> Les boulangeries haut de gamme à prix bas </h2> 
+<ul> 
+	<li> Boulangerie Lorrier </li> 
+	<li> La Kremlinoise </li> 
+</ul> 
+<h3> Les boulangeries dont je m'y rendrai quand j'ai les sous </h3> 
+<ul> 
+	<li> Boneshaker Donuts (peut-être)</li> 
+	<li> La Crêperie Bretonne à Montparnasse </li>
+</ul> 
+	</body> 
+</html>
