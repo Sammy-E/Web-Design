@@ -1,0 +1,55 @@
+<!DOCTYPE html> 
+
+<html>  
+<head> 
+<meta charset= “utf-8”>  
+<title> Les endroits que j'ai hâte de visiter </title> 
+</head>
+
+<body> 
+<h1> Les endroits que j'ai hâte de visiter </h1> 
+
+
+<h2> En France </h2> 
+<ul>   
+<li> Lille </li> 
+<li> Dijon </li> 
+<li> Strasbourg </li> 
+<li> Lyon </li> 
+<li> Bordeaux </li> 
+<li> Toulouse </li> 
+<li> Marseille </li> 
+<li> Ma remise de diplômes en avril </li> 
+</ul> 
+
+
+<h2> En déhors de la France </h2> 
+<ol>  
+<li> Fort-de-France </li>
+<li> Lonrdes (en France) </li> 
+<li> Lisbon le seize mars </li> 
+<li> Rome si le prêtre Tanyi est toujours là </li> 
+<li> Les Pays-Bas au mois de septembre
+<ul> 
+<li> Amsterdam 70 to 120 or 80 to 120 <br> ( MacDo Nieuwendijk 70, 1012 MP </li> 
+<li> Rotterdam </li> 
+</ul>
+</li> 
+</ol> 
+
+
+<h2> En déhors d'Europe </h2> 
+<ol>   
+<li> Le Cap (Lion's Head) </li> 
+<li> La Jamaïque au mois de janvier ou février </li>
+<li> Le Caire avec Ed et Yasmine </li> 
+<li> La Thaïlande avec Nathan </li> 
+<li> Abidjan avec Nathan </li>
+<li> La Réunion </li> 
+<li> La Havane </li> 
+<li> Honolulu </li> 
+<li> Bali </li> 
+</ol> 
+</body>
+
+</html> 
