@@ -1,0 +1,67 @@
+<!DOCTYPE html> 
+
+<html>  
+<head> 
+<meta charset= “utf-8”>  
+<title> Les endroits que j'ai hâte de visiter </title> 
+</head>
+
+<body> 
+<h1> Les endroits que j'ai hâte de visiter </h1> 
+
+
+<h2> Le sport </h2> 
+<ul>   
+<li> La natation </li> 
+<li> pilates </li> 
+<li> Les pompes </li> 
+<li> Les dips </li> 
+<li> La machine à ramer </li> 
+<li> Le tir à l'arc </li> 
+<li> La boxe </li> 
+<ol> 
+<li> Les jabs </li> 
+<li> Le coup de poing gauche </li> 
+<li> Les coups de paume </li> 
+<li> La gifle </li> 
+</ol>
+</ul> 
+
+<h2> La photographie </h2> 
+<ul>   
+<li> Canon - EOS M50 Mark II $790 dans le Delaware </li> 
+<li> Soit HP Spectre x360, soit Dell XPS 15. With more in favour of the Dell. </li> 
+<li> Adobe Lightroom classic  (pour des retouches légères) </li> 
+<li> Photoshop (pour des grosse modifications) </li> 
+</ul> 
+
+<h2> Mes intérêts </h2> 
+<ul>   
+<li> La politique </li> 
+<li> l'histoire </li> 
+<ol> 
+<li> les documentaires des événement datant d'avant ma naissance</li> 
+<li> les photos datant d'avant 1980 </li> 
+<li> Le mystère des événement datant d'avant ma naissance </li> 
+</ol>
+<li> les animaux </li>   
+</ul> 
+
+<h2> Les arts </h2> 
+<ul>   
+<li> Un musée / les musées </li> 
+<li> Les peintures </li> 
+<li> La musique </li> 
+<li> La danse </li> 
+<li> La machine à ramer </li> 
+<li> Le tir à l'arc </li> 
+<li> La stratégie </li> 
+<ol> 
+<li> Les billiards </li> 
+<li> Les échecs (il faut que j'améliore mes compétences) </li> 
+<li> La séance de tir </li> 
+</ol> 
+</ul> 
+
+</body> 
+</html>
