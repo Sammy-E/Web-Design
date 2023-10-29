@@ -4,7 +4,7 @@
 <meta charset= "utf-8"> 
 <title> La Lecture </title> 
 <style> 
-h2 { 
+#apprendre-le-français { 
 	color: wheat;
 }
 body { 
@@ -19,7 +19,7 @@ body {
 
 <h2> Les livres que je voudrais finir </h2> 
 <ul> 
-  <li> CECR C2 </li> 	
+  <li id = "apprendre-le-français"> CECR C2 </li> 	
   <li> Solibo Magnifique (Patrick Chamoiseau) </li> 
   <li> Les quarante-huit lois de pouvoir </li> 
   <li> L''art de la séduction </li> 
