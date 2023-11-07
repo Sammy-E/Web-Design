@@ -5,7 +5,7 @@
 <title> La bouffe en Île-de-France </title> 
 <style>
 body {
-      background: linear-gradient(to top left, #Lightcoral, #PeachPuff);
+      background: linear-gradient(to top left, Lightcoral, PeachPuff);
     } 
 </style>
 </head> 
@@ -36,7 +36,7 @@ body {
 	<li> Boulangerie Lorrier </li> 
 	<li> La Kremlinoise </li> 
 </ul> 
-<h3> Les boulangeries dont je m'y rendrai quand j'ai les sous </h3> 
+<h3> La boulangerie dont je m'y rendrai quand j'ai les sous </h3> 
 <ul> 
 	<li> La Crêperie Bretonne à Montparnasse </li>
 </ul> 
