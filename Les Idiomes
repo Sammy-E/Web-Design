@@ -4,9 +4,16 @@
 <head> 
 <meta charset= “utf-8”>  
 <title> Les expressions idiomatiques </title> 
+<style>
+body {
+      background: linear-gradient(to top left, #EF4135, #0055A4); 
+      text: white;
+    } 
+</style>
 </head>
 
 <body> 
+<h1> Les Idiomes </h1>
 
 
 
