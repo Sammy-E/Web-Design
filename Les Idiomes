@@ -6,9 +6,9 @@
 <title> Les expressions idiomatiques </title> 
 <style>
 body {
-      background: linear-gradient(to top left, #EF4135, #0055A4); 
-      text: white;
-    } 
+  background: linear-gradient(to right, #0055A4, #EF4135);
+  color: white;
+} 
 </style>
 </head>
 
