@@ -3,11 +3,12 @@
 <head> 
 <meta charset= “utf-8”> 
 <title> La bouffe en Île-de-France </title> 
-<style>
-body {
-      background: linear-gradient(to top left, Lightcoral, PeachPuff);
-    } 
-</style>
+<style> 
+  body {
+  background: url('https://mesdelicieusescreations.com/wp-content/uploads/2021/04/gateau-facon-montblanc-antillais-scaled.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+  </style>
 </head> 
 <body> 
 <!-- C'était le début--> 
