@@ -4,6 +4,13 @@
 <head> 
 <meta charset= “utf-8”>  
 <title> Les endroits que j'ai hâte de visiter </title> 
+  <style> 
+  body {
+  background: url('https://images.france.fr/zeaejvyq9bhj/32UttQcIXYSe44uokUW4q6/772538bd970f9d7adbe0eab36c237cb2/article_ImP_Polynesie_1120x490.jpg?w=1120&h=490&q=70&fl=progressive&fit=fill') no-repeat center center fixed;
+  background-size: cover;
+}
+  </style>
+  
 </head>
 
 <body> 
