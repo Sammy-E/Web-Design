@@ -13,7 +13,43 @@ body {
 
 <body> 
 
+<h1> Les endroits que j'ai hâte de visiter </h1> 
 
+<h2> Géographie </h2> 
+<ul> 
+<li> Quel est le nom de la plus haute montagne en France ? </li> 
+<li> Combien y a-t-il de régions en France ? </li> 
+</ul> 
+
+<h2> Gouvernment </h2> 
+<ul>   
+<li> Quelle est la devise de la République française ? </li> 
+<li> Quel est le nom de la plus haute montagne en France ? </li> 
+<li> Qui a composé "La Marseillaise" ? </li> 
+<li> Qu'est-ce que l'Union européenne ? </li> 
+<li> Quelle est la monnaie utilisée en France ? </li> 
+<li> Qu'est-ce que la laïcité en France ?  </li> 
+<li> Qui est le Premier ministre actuel en France ? </li> 
+<li> Quel est le système de santé en France ? </li>
+</ul> 
+
+
+<h2> Histoire </h2> 
+<ul>   
+<li> Qu'est-ce que la guerre de Cent Ans ? </li> 
+<li> Qui était Jeanne d'Arc ? </li> 
+<li> Qui était Louis XIV ? </li> 
+<li> Quand a commencé la Révolution française ? </li> 
+<li> Qu'est-ce que le 14 juillet en France ? </li> 
+<li> Qu'est-ce que la Déclaration des droits de l'homme et du citoyen ? </li> 
+<li> Qu'est-ce que le Siècle des Lumières ? </li> 
+<li> Qu'est-ce que la guerre de 14-18 ?  </li> 
+<li> Qu'est-ce que la guerre de 39-45 ? </li> 
+<li> Qui était Charles de Gaulle ? </li> 
+<li> Qu'est-ce que la Ve République ? </li> 
+<li> Qu'est-ce que la IVe République ? </li> 
+<li> Qui était Simone Veil ? </li> 
+</ul> 
 
 </body>
 
